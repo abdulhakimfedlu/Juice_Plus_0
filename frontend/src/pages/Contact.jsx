@@ -9,6 +9,7 @@ const ContactUs = () => {
         <div className="absolute top-4 left-4 w-16 h-16 bg-orange-500 rounded-full opacity-20"></div>
         <div className="absolute bottom-8 right-8 w-20 h-20 bg-yellow-400 rounded-full opacity-20"></div>
 
+
         
         <div className="container mx-auto px-4 relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Get In Touch</h1>
