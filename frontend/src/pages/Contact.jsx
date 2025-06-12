@@ -10,7 +10,6 @@ const ContactUs = () => {
         <div className="absolute bottom-8 right-8 w-20 h-20 bg-yellow-400 rounded-full opacity-20"></div>
 
 
-      
         <div className="container mx-auto px-4 relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Get In Touch</h1>
           <p className="text-green-100 max-w-2xl mx-auto text-lg">
