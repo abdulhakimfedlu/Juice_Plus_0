@@ -1,5 +1,6 @@
 import Employee from '../models/Employee.js';
 
+
 // Create a new employee
 export const createEmployee = async (req, res) => {
     try {
